@@ -1,3 +1,3 @@
 from mmcv.utils import Registry
-# Create a registry for converters
+# create a registry for converters
 CONVERTERS = Registry('converters')
