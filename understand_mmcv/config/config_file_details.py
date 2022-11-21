@@ -1,0 +1,5 @@
+file_dir = '{{fileDirname}}'
+file_base = '{{fileBasename}}'
+file_name_no_extension = '{{fileBasenameNoExtension}}'
+file_extension = '{{fileExtname}}'
+mumbo_jumbo = 'The config file is here {{fileDirname}}/{{fileBasename}}'
